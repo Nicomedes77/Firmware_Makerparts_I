@@ -1,5 +1,5 @@
 # Firmware Makerparts I
-![imagen Makerparts](https://http2.mlstatic.com/D_NQ_NP_712964-MLA31590856694_072019-O.webp)
+![imagen Makerparts](https://http2.mlstatic.com/D_NQ_NP_825248-MLA31590857039_072019-O.webp)
  - Marlin 2.0.5
  - Volumen de impresión: 200x200x200 mm
  - Cama caliente: MK2b Dual Power
